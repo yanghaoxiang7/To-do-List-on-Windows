@@ -4,15 +4,15 @@
 
 #### Demo
 
-<img src="./imgs/1.png" alt="1" style="zoom: 67%;" />
+<img src="./imgs/1.png" alt="1" style="zoom: 50%;" />
 
-<img src="./imgs/2.png" alt="1" style="zoom: 67%;" />
+<img src="./imgs/2.png" alt="1" style="zoom: 50%;" />
 
 For full demo, download the files and visit Todolist/bin/Debug/Todolist.exe
 
 #### Object-oriented Programming Structures
 
-<img src="./imgs/3.png" alt="1" style="zoom: 50%;" />  <img src="./imgs/4.png" alt="1" style="zoom: 50%;" />  <img src="./imgs/5.png" alt="1" style="zoom: 50%;" />  <img src="./imgs/6.png" alt="1" style="zoom: 50%;" />
+<img src="./imgs/3.png" alt="1" style="zoom: 20%;" />  <img src="./imgs/4.png" alt="1" style="zoom: 20%;" />  <img src="./imgs/5.png" alt="1" style="zoom: 20%;" />  <img src="./imgs/6.png" alt="1" style="zoom: 20%;" />
 
 #### Project Description
 
@@ -25,8 +25,4 @@ For full demo, download the files and visit Todolist/bin/Debug/Todolist.exe
 
 #### Teamwork
 
-Haoxiang Yang
-
-Wenhao Li
-
-Meng Sun
+Wenhao Li, Meng Sun, Haoxiang Yang
